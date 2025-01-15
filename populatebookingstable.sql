@@ -18,6 +18,8 @@ INSERT INTO Bookings (booking_id, date, table_number, customer_id) VALUES
 (4, '2022-10-13', 2, 1);
 
 -- Query to check the inserted data
+SELECT * FROM Bookings;
+
 
 -- Expected Output
 +------------+------------+--------------+-------------+
