@@ -60,3 +60,4 @@ EXERCISE 10: ADD QUERY FUNCTIONS
 Scenario: Assisted Little Lemon in building a query system to manage customer bookings.
 Conclusion: Implemented the necessary query functions to manage customer data effectively.
 
+Please, You can use the setup in each of the sql files in the repository for correct output .
