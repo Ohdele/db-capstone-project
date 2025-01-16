@@ -1,6 +1,6 @@
 LITTLE LEMON DATABASE ENGINEERING PROJECT
 
-This project involved creating and managing a MySQL-based database for the Little Lemon restaurant. I designed a relational database with an ER diagram, optimized queries, and integrated Tableau for data analysis. Key tasks included setting up a GitHub repository, configuring MySQL Workbench, implementing stored procedures, and creating SQL queries to manage bookings. Additionally, I developed an interactive Tableau dashboard for sales and profit analysis. The project demonstrated my proficiency in database engineering, SQL optimization, and data visualization.
+This project involved creating and managing a MySQL-based database for the Little Lemon restaurant. I designed a relational database with an ER diagram, optimized queries, and integrated Tableau for data analysis. Key tasks included setting up a GitHub repository, configuring MySQL Workbench, implementing stored procedures, and creating SQL queries to manage bookings. Additionally, I developed an interactive Tableau dashboard for sales and profit analysis and used Jupyter Notebook for Python-based data processing and database interaction. The project demonstrated my proficiency in database engineering, SQL optimization, data analysis, and visualization.
 
 
 SETTING UP THE REPOSITORY
